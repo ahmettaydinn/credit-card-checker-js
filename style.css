@@ -59,6 +59,11 @@ label {
     color: rgb(190, 154, 54);
 }
 
+#valueInput {
+  font-size: 1.5rem;
+  font-family: 'Ubuntu', sans-serif;
+}
+
 .images img {
 height: 6rem;
 width: 7rem;
