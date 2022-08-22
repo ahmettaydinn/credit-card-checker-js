@@ -13,6 +13,7 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Project Skeleton](#project-skeleton)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
