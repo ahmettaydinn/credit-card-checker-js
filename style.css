@@ -48,6 +48,9 @@ body {
     left: 0.5rem;
 }
 
+#mastercard {
+    height: 6.5rem;
+}
 
 label {
     font-size: 2rem;
