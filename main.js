@@ -87,8 +87,6 @@ const getValueInput = () =>{
 
 
 
-
-
 let valid1 = 4539677908016808;
 const valid2 = 5535766768751439;
 const valid3 = [371612019985236];
