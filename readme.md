@@ -35,7 +35,7 @@ Users should be able to:
 ### Screenshot
 
 <p align="center">
-<a href="https://bavi-boop.github.io/clipboard-landing-page-website/"><img src="card_checker.gif" alt="screenshot" width="500" height="400"></a>
+<a href="https://bavi-boop.github.io/clipboard-landing-page-website/"><img src="card_checker.gif" alt="screenshot" width="580" height="310"></a>
 </p>
 
 
