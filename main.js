@@ -78,11 +78,9 @@ const getValueInput = () =>{
     discover.hidden = true;
     document.getElementById(company).hidden = false
     document.getElementById("valueInput").innerHTML = `Your ${company} credit card is invalid❌`;
-
-    
+ 
   }
-   
-  
+    
 }
 
 
