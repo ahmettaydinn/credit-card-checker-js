@@ -60,7 +60,11 @@ const getValueInput = () =>{
   let mastercard =  document.getElementById("mastercard")
   let visa =  document.getElementById("visa")
   let discover =  document.getElementById("discover")
-  if(validateCred([inputValue])) {
+
+  if (inputValue.length == 0) {
+    document.getElementById("valueInput").innerHTML = `There is no card❗`;
+  } else if(validateCred([inputValue])) {
+    
     document.getElementById("valueInput").innerHTML = `Your ${company} credit card is valid✅`;
     amex.hidden = true;
     mastercard.hidden = true;
