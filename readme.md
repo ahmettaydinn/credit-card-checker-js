@@ -40,6 +40,17 @@ Users should be able to:
 <a href="https://bavi-boop.github.io/credit-card-checker-js/"><img src="card_checker.gif" alt="screenshot" width="550" height="310"></a>
 </p>
 
+## Project Skeleton 
+
+```
+
+|----credit-cards(folder)
+     |----images..
+    
+|----main.js  
+|----style.css
+|----index.html
+```
 
 ### Links
 
