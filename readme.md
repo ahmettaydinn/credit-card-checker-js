@@ -27,7 +27,7 @@
 ## Overview
 I used Luhn Algorithm to check credit cards.
 <a href="https://en.wikipedia.org/wiki/Luhn_algorithm#Description">Luhn Algorithm</a>
-<img src="luhn.png" alt="screenshot" width="550" height="310">
+<img src="luhn.png" alt="screenshot" width="550" height="315">
 ### The challenge
 
 Users should be able to:
